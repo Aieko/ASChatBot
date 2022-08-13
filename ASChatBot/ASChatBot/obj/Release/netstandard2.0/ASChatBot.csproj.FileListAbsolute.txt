@@ -1,0 +1,14 @@
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\bin\Release\netstandard2.0\ASChatBot.deps.json
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\bin\Release\netstandard2.0\ASChatBot.dll
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\bin\Release\netstandard2.0\ASChatBot.pdb
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\ASChatBot.csprojAssemblyReference.cache
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\EmailConnectionPage.xaml.g.cs
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\GroupConnectionPage.xaml.g.cs
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\ASChatBot.csproj.CoreCompileInputs.cache
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\ASChatBot.AssemblyInfoInputs.cache
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\ASChatBot.AssemblyInfo.cs
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\ASChatBot.dll
+C:\Users\aieko\source\repos\ASChatBot\ASChatBot\ASChatBot\obj\Release\netstandard2.0\ASChatBot.pdb

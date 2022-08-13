@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:minWidth="25px"
+	android:minHeight="25px">
+	<LinearLayout
+		android:orientation="vertical"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="match_parent"
+		android:layout_height="82.5dp"
+		android:layout_marginTop="12.0dp"
+		android:id="@+id/linearLayout1">
+		<TextView
+			android:text="Ключ Доступа Группы"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="266.0dp"
+			android:layout_height="30.0dp"
+			android:layout_marginStart="10.0dp"
+			android:textColor = "@android:color/black"
+			android:id="@+id/textView1"/>
+		<EditText
+			android:hint = "Пример : 47a232******************a29f"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:layout_width="347.5dp"
+			android:layout_height="47.5dp"
+			android:layout_marginStart="10.0dp"
+			android:id="@+id/vkTokenEntry"/>
+		
+	</LinearLayout>
+
+	<LinearLayout
+			android:orientation="vertical"
+			android:minWidth="25px"
+			android:minHeight="25px"
+			android:layout_width="match_parent"
+			android:layout_height="82.5dp"
+			android:layout_marginTop="12.0dp"
+			android:id="@+id/linearLayout2">
+		<TextView
+			android:text="ID Группы"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:layout_width="266.0dp"
+			android:layout_height="30.0dp"
+			android:layout_marginStart="10.0dp"
+			android:textColor = "@android:color/black"
+			android:id="@+id/textView2"/>
+		<EditText
+			android:hint = "Пример : 214228913"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:layout_width="230.0dp"
+			android:layout_height="47.5dp"
+			android:layout_marginStart="10.0dp"
+			android:id="@+id/vkIdEntry"/>
+	</LinearLayout>
+		<Button
+		android:text="Сохранить"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/saveButton" />
+		<Button
+		android:text="Сбросить"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:visibility = "invisible"
+		android:id="@+id/resetButton" />
+	<Button
+		android:text="Ответы ВК-Бота"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/answersButton" />
+</LinearLayout>
